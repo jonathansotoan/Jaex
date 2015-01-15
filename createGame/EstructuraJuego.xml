@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<!--Todo sin extensiones de archivo-->
+<game>
+	<date type="Nombre del archivo (sin extensión porque quedará php)">la_rex</date>
+	<date type="Título del juego">L.A. Rex</date>
+	<!--HERE gratis en l&iacute;nea en JaexJuegos.com-->
+	<date type="Descripción en la etiqueta meta">En este juego tendr&amp;aacute;s que ponerte en los zapatos de un dinosaurio hambriento que ha escapado en los &amp;Aacute;ngeles; a divertirse! (13+).</date>
+	<!--HERE  , en linea, online, gratis, free-->
+	<date type="Palabras clave en la etiqueta meta">la rex, juego de dinosaurios, juego sangriento, dinosaur game, funny game, blood game, juego divertido</date>
+	<date type="Páginas de descripción del juego">
+		<image>
+			<!--type can be
+			*una tecla (it works to mouse type too)
+			*dos teclas
+			*tres teclas
+			*una letra (Predeterminado: Pausar)
+			*barra espaciadora (Pred: Saltar)
+			*mouse (Si en la descripción se quiere poner "Mover para<br>apuntar" se puede dejar en blanco)
+			*click izquierdo
+			*click derecho
+			*una flecha (Predeterminado: Saltar)
+			*dos flechas (Pred: izquierda y derecha. Inclinarse)
+			*tres flechas (osea izquierda, arriba y derecha. Si en la descripción...)
+			*dos letras (Pred: A y D. Inclinarse)
+			*tres letras (osea A, W y D. Si en la descripción...)
+			*flechas pri / flechas (osea izquierda, arriba, derecha y abajo. Si en la descripción...)
+			*flechas sec (osea A, W, D y S. Si en la descripción...)
+			*flechas ter (osea I, J, K, L)
+			*enter-->
+			<type>dos flechas</type>
+			<description>Moverse</description>
+		</image>
+		<image>
+			<type>dos letras</type>
+			<filename></filename>
+			<alt></alt>
+			<filename></filename>
+			<alt></alt>
+			<description>Moverse</description>
+		</image>
+		<image>
+			<type>una flecha</type>
+			<filename>arriba</filename>
+			<alt></alt>
+			<description></description>
+		</image>
+		<image>
+			<type>una letra</type>
+			<filename>w</filename>
+			<alt></alt>
+			<description>Saltar</description>
+		</image>
+		<image>
+			<type>mouse</type>
+			<description>Mover&lt;br&gt;cabeza</description>
+		</image>
+		<image>
+			<type>click izquierdo</type>
+			<description>Morder</description>
+		</image>
+	</date>
+	<date type="Código del juego">98</date>
+	<date type="Ancho del juego">640</date>
+	<date type="Alto del juego">384</date>
+	<date type="Juegos similares">
+		<path>acrobacias_en_avalanchas</path>
+		<code>89</code>
+
+		<path>rush_rush</path>
+		<code>68</code>
+
+		<path>jurassic_omelet</path>
+		<code>66</code>
+
+		<path>truck_mania</path>
+		<code>36</code>
+
+		<path>tractor_mania</path>
+		<code>35</code>
+
+		<path>monster_truck_demolisher</path>
+		<code>40</code>
+	</date>
+	<date type="Descripción del juego">Juega como un dinosaurio T-Rex y destruye todo a tu paso en la ciudad de Los &amp;Aacute;ngeles.</date>
+</game>

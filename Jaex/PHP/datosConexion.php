@@ -1,0 +1,1 @@
+<?php $host="localhost";$usuario="jaexjueg";$contrasena="5n1PnI6e8i";$bd="jaexjueg_jaexdb";?>

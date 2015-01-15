@@ -1,0 +1,1 @@
+<?php header("Cache-Control:no-store,no-cache,must-revalidate");include("obtencionDatosBD.php");if($_GET['instruccion']==0)mostrarPuntuacion($_GET['id']);elseif($_GET['instruccion']==1)echo obtenerPuntuacion($_GET['id']);?>
